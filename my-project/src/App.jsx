@@ -44,8 +44,8 @@ function App() {
             </div>
             <div>
               <strong>LinkedIn</strong>
-              <a href="https://www.linkedin.com/in/sunidhi-girish-288426299/" target="_blank" rel="noreferrer">
-                linkedin.com/in/sunidhi-girish-288426299
+              <a href="https://www.linkedin.com/in/sunidhi-girish-2884a6299" target="_blank" rel="noreferrer">
+                linkedin.com/in/sunidhi-girish-2884a6299
               </a>
             </div>
           </div>
@@ -206,7 +206,7 @@ function App() {
             </div>
             <div className="callout-card">
               <h3>Connect online</h3>
-              <a href="https://www.linkedin.com/in/sunidhi-girish-288426299/" target="_blank" rel="noreferrer">
+              <a href="https://www.linkedin.com/in/sunidhi-girish-2884a6299" target="_blank" rel="noreferrer">
                 LinkedIn profile
               </a>
             </div>
