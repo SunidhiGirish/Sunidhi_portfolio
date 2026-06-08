@@ -48,6 +48,12 @@ function App() {
                 linkedin.com/in/sunidhi-girish-2884a6299
               </a>
             </div>
+            <div>
+              <strong>GitHub</strong>
+              <a href="https://github.com/SunidhiGirish" target="_blank" rel="noreferrer">
+                github.com/SunidhiGirish
+              </a>
+            </div>
           </div>
         </div>
       </header>
@@ -208,6 +214,9 @@ function App() {
               <h3>Connect online</h3>
               <a href="https://www.linkedin.com/in/sunidhi-girish-2884a6299" target="_blank" rel="noreferrer">
                 LinkedIn profile
+              </a>
+              <a href="https://github.com/SunidhiGirish" target="_blank" rel="noreferrer">
+                GitHub profile
               </a>
             </div>
           </div>
